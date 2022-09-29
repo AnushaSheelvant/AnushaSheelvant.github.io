@@ -6,11 +6,11 @@
 .navbar{
 
 border: none;
-background-color: black;
+background-color: lightgray;
 color: lightblue;
 }
 body{
-	background-color: #61122F;
+	background-color: lightblue;
 	color: white;
 }
 .glyphicon{
